@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/universal-editor-fujiwara/:/",
+    "/content/universal-editor-fujiwara/configuration:/.helix/config.json",
+    "/content/universal-editor-fujiwara/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/universal-editor-fujiwara/"
   ]
 }
