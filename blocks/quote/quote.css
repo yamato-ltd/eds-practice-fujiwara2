@@ -57,3 +57,7 @@
     width: 30px;
     background-color: darkgray;
 }
+
+.block.quote.bg-green {
+    background-color: #76ecb1;
+}
