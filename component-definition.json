@@ -168,7 +168,7 @@
                   "name": "quote-name",
                   "model": "quote-model",
                   "quote-name": "<p>Think, McFly! Think!</p>",
-                  "author": "著者名"
+                  "quote-author": "著者名"
                   }
               }
               }
