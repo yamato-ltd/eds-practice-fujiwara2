@@ -167,7 +167,7 @@
                   "template": {
                   "name": "quote-name",
                   "model": "quote-model",
-                  "quote": "<p>Think, McFly! Think!</p>",
+                  "quote-name": "<p>Think, McFly! Think!</p>",
                   "author": "著者名"
                   }
               }
