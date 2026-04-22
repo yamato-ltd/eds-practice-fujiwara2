@@ -216,7 +216,7 @@
     ]
   },
   {
-  "id": "quote",
+  "id": "quote-id",
   "fields": [
       {
       "component": "richtext",
