@@ -158,7 +158,7 @@
           }
         },
         {
-          "title": "引用",
+          "title": "Quote",
           "id": "quote-id",
           "plugins": {
             "xwalk": {
