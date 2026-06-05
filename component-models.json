@@ -294,8 +294,8 @@
       },
       {
         "component": "select",
-        "name": "Textarea Position",
-        "label": "position",
+        "name": "position",
+        "label": "Textarea Positio",
         "options": [
           {
             "name": "default(left)",
