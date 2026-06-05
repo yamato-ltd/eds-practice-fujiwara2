@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p153479-e1781243.adobeaemcloud.com/bin/franklin.delivery/yamato-ltd/eds-practice-fujiwara2/main"
+    url: "https://author-p153479-e1781243.adobeaemcloud.com/bin/franklin.delivery/yamato-ltd/eds-practice-fujiwara2"
     type: "markup"
     suffix: ".html"
