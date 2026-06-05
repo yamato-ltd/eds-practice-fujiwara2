@@ -99,6 +99,7 @@
                 margin: 0;
                 text-transform: uppercase;
             }
+
             .button:hover {
                 text-decoration: none;
             }
