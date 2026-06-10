@@ -55,6 +55,25 @@
                     "name": "textContent_ctaText",
                     "label": "CTA label",
                     "valueType": "string"
+                },
+                {
+                    "component": "select",
+                    "name": "position",
+                    "label": "Textarea Positio",
+                    "options": [
+                        {
+                            "name": "default(left)",
+                            "value": ""
+                        },
+                        {
+                            "name": "center",
+                            "value": "center"
+                        },
+                        {
+                            "name": "right",
+                            "value": "right"
+                        }
+                    ]
                 }
             ]
         }
